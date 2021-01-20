@@ -12,137 +12,137 @@ The morphemes are below. They are arranged into a number of categories.
 
 (Active descriptors; when nouns, equivalent to infinitive)
 
-to be together, to be united, brotherhood - am
-to make - fuj
-to service - lan
-to shape - mul
-to defend - ak
-to cultivate - fal
-to comprehend - las
-to discover - tus
-to convey - fam
-to fulfill - luf
-to think - nal
-emotion - kav
-logic/ordered thought - fun
-to express - han
-to comfort - mun
-to provide - jun
-to obtain - lik
-to give - hif
-to be - e
-the beating (of the heart) - pun
-the flowing (of blood) - jaf
-to consume - kim
-to excrete - ul
-to breathe - ha
-to inhale: hat
-to exhale: tu
+* to be together, to be united, brotherhood - am
+* to make - fuj
+* to service - lan
+* to shape - mul
+* to defend - ak
+* to cultivate - fal
+* to comprehend - las
+* to discover - tus
+* to convey - fam
+* to fulfill - luf
+* to think - nal
+* emotion - kav
+* logic/ordered thought - fun
+* to express - han
+* to comfort - mun
+* to provide - jun
+* to obtain - lik
+* to give - hif
+* to be - e
+* the beating (of the heart) - pun
+* the flowing (of blood) - jaf
+* to consume - kim
+* to excrete - ul
+* to breathe - ha
+* to inhale: hat
+* to exhale: tu
 
 (Nouns unless marked otherwise)
 
-Land - tu 
-Water- un
-Good - pi 
-High- ut 
-Fresh- fa
-Flat - pa
-Substrate- su
-Long - la
-Low - ka
-Adequate - ap
-Middle - ma
-movement - muf
-Multiple - fi
+* Land - tu 
+* Water- un
+* Good - pi 
+* High- ut 
+* Fresh- fa
+* Flat - pa
+* Substrate- su
+* Long - la
+* Low - ka
+* Adequate - ap
+* Middle - ma
+* movement - muf
+* Multiple - fi
 
 (Interjections)
-yes - ti
-no - ni
+* yes - ti
+* no - ni
 
 (inactive descriptors unless marked otherwise)
 
 time/space:
 
-before/behind: lus
-now/here: nal
-after/ahead: lut
+* before/behind: lus
+* now/here: nal
+* after/ahead: lut
 
-left: fif
-right:jif
+* left: fif
+* right:jif
 
-above: sap
-below: pas
+* above: sap
+* below: pas
 
-time (suffix - denotes that a time/space inactive descriptor refers to time) - tul
-space (same as above but involving space) - sum
+* time (suffix - denotes that a time/space inactive descriptor refers to time) - tul
+* space (same as above but involving space) - sum
 
 state:
 
-being changed: - na
-Coming into being - ju
-with : - nu
-without : - in
-used (utilized) to do: - mi
-a part of - lip
-a section; not the whole - put
+* being changed: - na
+* Coming into being - ju
+* with : - nu
+* without : - in
+* used (utilized) to do: - mi
+* a part of - lip
+* a section; not the whole - put
 
 
 location:
 
-(motion into, towards) - ka
-(motion out of, away from) - ku
- (location at, on) - ki
-(location off, away from)  - os
-inside - an
-outside - nin
+* (motion into, towards) - ka
+* (motion out of, away from) - ku
+*  (location at, on) - ki
+* (location off, away from)  - os
+* inside - an
+* outside - nin
 
 (tense, aspect, and mood - denoted at the beginning of a clause in that order - active descriptors are not declined)
 
 tense:
 
 
-Present: sak
-Past: kas
-Future: tas
+* Present: sak
+* Past: kas
+* future: tas
 
 aspect:
 
-Imperfect: mas
-Perfect: suk
+* Imperfect: mas
+* Perfect: suk
 
 mood:
 
-Indicative: san
-Subjunctive: nus
-Conditional: nun
-Imperative: kan
-Potential: taf
-Interrogative: pam
+* Indicative: san
+* Subjunctive: nus
+* Conditional: nun
+* Imperative: kan
+* Potential: taf
+* Interrogative: pam
 
 (truth - optional, denotes the veracity of a statement)
 
-True: kam
-Assumed true: pan
-Unknown: a
-Assumed false: kin
-False: pin
+* True: kam
+* Assumed true: pan
+* Unknown: a
+* Assumed false: kin
+* False: pin
 
 (relational suffixes - used to denote the relation between a subject and an object, and in some cases a descriptor)
-bound by: - bu (subject, object, descriptor)
-similar: - ha (subject, object)
-free of - pu (subject, object, descriptor)
-same - si (subject, object)
-equal - nissi (subject, object)
-not - ni (subject, object)
-deserves - pik (subject, object, descriptor)
-hates - nik (subject, object, descriptor
-began as a result of - ban (subject, object, descriptor)
-stopped as a result of  - nab (subject, object, descriptor)
-loves/likes - nib (subject, object, descriptor)
-in the spirit of community - is (subject, object, descriptor
-familial - fin (subject, object)
-siblings - fil (subject, object)
-mother/father - bit (subject object)
+* bound by: - bu (subject, object, descriptor)
+* similar: - ha (subject, object)
+* free of - pu (subject, object, descriptor)
+* same - si (subject, object)
+* equal - nissi (subject, object)
+* not - ni (subject, object)
+* deserves - pik (subject, object, descriptor)
+* hates - nik (subject, object, descriptor
+* began as a result of - ban (subject, object, descriptor)
+* stopped as a result of  - nab (subject, object, descriptor)
+* loves/likes - nib (subject, object, descriptor)
+* in the spirit of community - is (subject, object, descriptor
+* familial - fin (subject, object)
+* siblings - fil (subject, object)
+* mother/father - bit (subject object)
 
 When a relational suffix applies from the subject to the object (ie, the subject hates the object, the subject loves the object), the ending - tal is used
 When a relational suffix applies from the object to the subject (the object hates the subject, etc, etc), the ending -tun is used.
@@ -150,8 +150,8 @@ When a relational suffixes applies from either the object or subject to the verb
 
 (posession)
 
-composition: mot
-ownership: mo
+* composition: mot
+* ownership: mo
 
 
 
