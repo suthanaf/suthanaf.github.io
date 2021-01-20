@@ -98,17 +98,16 @@ location:
 
 (tense, aspect, and mood - denoted at the beginning of a clause in that order - active descriptors are not declined)
 
-tense:
+tense/aspect:
 
+* Present/Perfect: sak
+* Past/Perfect: kas
+* Future/Perfect: tas
 
-* Present: sak
-* Past: kas
-* future: tas
+* Present/Imperfect: mas
+* Past/Imperfect: suk
+* Future/imperfect - faf
 
-aspect:
-
-* Imperfect: mas
-* Perfect: suk
 
 mood:
 
