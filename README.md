@@ -1,6 +1,6 @@
 # The New Language - Sut-han
 ### Inspiration
-Sut-hanaf is primarily based upon obscure naturalistic languages, from Cherokee to Estonian to the many Bantu languages. This odd mixture of different cultures negates any sort of culture that would be inherent to each, thus rendering the language entirely without culture and somewhat alien. However, it - takes inspiration from a great number of constructed languages, largely philosophical in nature. It is primarily analytic; however, it has a number of aggluntinative features.
+Sut-hanaf is primarily based upon obscure naturalistic languages, from Cherokee to the many Bantu languages. This odd mixture of different cultures negates any sort of culture that would be inherent to each, thus rendering the language entirely without culture and somewhat alien. However, it - takes inspiration from a great number of constructed languages, largely philosophical in nature. It is primarily analytic; however, it has a number of aggluntinative features.
 
 ### The Content of Sut-han
 ###### Overview
@@ -144,8 +144,10 @@ mood:
 * siblings - fil (subject, object)
 * mother/father - bit (subject object)
 
-When a relational suffix applies from the subject to the object (ie, the subject hates the object, the subject loves the object), the ending - tal is used
+When a relational suffix applies from the subject to the object (ie, the subject hates the object, the subject loves the object), the ending - tal is used.
+
 When a relational suffix applies from the object to the subject (the object hates the subject, etc, etc), the ending -tun is used.
+
 When a relational suffixes applies from either the object or subject to the verb (the object/subject hates doing the verb), the ending -hak is used.
 
 (posession)
@@ -198,8 +200,8 @@ Class numbers 1 - 22 are strictly defined; this means that they must be used in 
 
 All nouns automatically refer to objects. In order to refer to an action or an attribute, one must use the following suffixes:
 
-action - uf
-attribute - if
+* action - uf
+* attribute - if
 
 ###### Grammar
 
